@@ -1,16 +1,66 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://pin.it/3aHJmUIfo" width="250px" alt="Welcome gif">
+</p>
 
-<!--
-**strikxr93939/strikxr93939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Привет, я — strikxr\lost\потерянный
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _Меланхоличный, но целеустремлённый разработчик, который ищет красоту в коде и звуке клавиш._
+
+---
+
+## 💡 Обо мне
+
+Я изучаю языки программирования, потому что мне по-настоящему нравится **создавать что-то новое и креативное**.  
+Каждый новый проект — это как **маленький мир**, который можно построить с нуля.  
+
+Люблю, когда идеи превращаются в интерфейсы, а строки кода — в живые продукты.  
+Проекты для меня — способ **расширять кругозор**, пробовать, ошибаться и расти.  
+
+> Иногда я грущу, но не останавливаюсь.  
+> Даже в тумане — я вижу направление.
+
+---
+
+## 🧠 Технологии и инструменты
+
+🖥️ **Frontend:** HTML, CSS,   
+🗄️ **Databases:** SQL  
+🧩 **Tools:** Git, VS Code\Studio
+
+---
+
+## 📊 GitHub Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ВАШ_НИК&theme=react-dark)
+
+---
+
+## 🚀 Мои проекты
+
+Вот некоторые из моих работ — заходи, оцени идею и код ⚡  
+
+| Проект | Описание | Ссылка |
+|--------|-----------|--------|
+
+| 🌙 **Melancholy Notes** | Небольшой заметочник с тёмной эстетикой | [Открыть](https://github.com/ВАШ_НИК/melancholy-notes) |
+
+
+---
+
+## 📬 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram)](https://t.me/@strikxrl0st)
+[![Email](https://img.shields.io/badge/Email-555?style=flat&logo=gmail)](mailto:slavaevdaku@gmail.com)
+
+---
+
+<p align="center">
+  <i>“Код — это мой язык, а проекты — мой способ говорить с миром.”</i>
+</p>
+
