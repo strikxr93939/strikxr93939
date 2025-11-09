@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/3aHJmUIfo" width="250px" alt="Welcome gif">
+  <img src="assets/Без названия.gif" width="250px" alt="Welcome gif">
 </p>
 
 ---
