@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Без названия.gif" width="250px" alt="Welcome gif">
+  <img src="Welcome.gif" width="250px" alt="Welcome gif">
 </p>
 
 ---
