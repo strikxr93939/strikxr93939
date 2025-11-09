@@ -33,11 +33,11 @@
 
 ## 📊 GitHub Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=strikxr93939&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strikxr93939&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ВАШ_НИК&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=strikxr93939&theme=react-dark)
 
 ---
 
@@ -48,7 +48,7 @@
 | Проект | Описание | Ссылка |
 |--------|-----------|--------|
 
-| 🌙 **Melancholy Notes** | Небольшой заметочник с тёмной эстетикой | [Открыть](https://github.com/ВАШ_НИК/melancholy-notes) |
+| 🌙 **Melancholy Notes** | Небольшой заметочник с тёмной эстетикой | [Открыть](https://github.com/strikxr93939/melancholy-notes) |
 
 
 ---
